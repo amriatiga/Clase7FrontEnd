@@ -1,0 +1,23 @@
+.backgroundlogo {
+    background-color: #E5E5E5;
+}
+
+.hcolor {
+    color: #005677;
+}
+.hbackground {
+   background-color: #c4c4c4; 
+}
+footer{
+    background-color: #005677;
+    color: #FFFFFF;
+}
+html{
+    font-family: 'Times New Roman';
+}
+.cursiva {
+    font-style: italic;
+}
+.left {
+   padding-left: 10px;
+}
